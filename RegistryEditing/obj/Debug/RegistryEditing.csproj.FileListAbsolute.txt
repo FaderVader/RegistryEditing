@@ -1,0 +1,12 @@
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\bin\Debug\RegistryEditing.exe.config
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\obj\Debug\RegistryEditing.csprojResolveAssemblyReference.cache
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\bin\Debug\RegistryEditing.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\bin\Debug\RegistryEditing.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\obj\Debug\RegistryEditing.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\obj\Debug\RegistryEditing.pdb
+C:\GoogleDrive\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\bin\Debug\RegistryEditing.exe.config
+C:\GoogleDrive\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\obj\Debug\RegistryEditing.exe
+C:\GoogleDrive\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\obj\Debug\RegistryEditing.pdb
+C:\GoogleDrive\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\bin\Debug\RegistryEditing.exe
+C:\GoogleDrive\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\bin\Debug\RegistryEditing.pdb
+C:\GoogleDrive\VS_PROJECTS\TESTING\RegistryEditing\RegistryEditing\obj\Debug\RegistryEditing.csprojResolveAssemblyReference.cache
